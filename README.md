@@ -1,5 +1,4 @@
 # Indices-Hematimetricos
- Calculadora para índices hematimétricos.
 
  Cálculos e análise dos índices hematimétricos usando Python
 
